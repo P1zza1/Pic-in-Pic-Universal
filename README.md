@@ -11,10 +11,15 @@ Download pip-extension-v2.zip and extract it to a folder you'll keep on your com
 These all use the same steps, just a different address for the extensions page:
 
 Browser	Extensions page
+
 Brave:	  brave://extensions
+
 Chrome: 	chrome://extensions
+
 Edge: 	  edge://extensions
+
 Opera:   	opera://extensions
+
 Vivaldi:	vivaldi://extensions
 
 Steps:
